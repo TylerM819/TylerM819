@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @TylerM819
 - 👀 I’m interested in Psychology
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on ...
